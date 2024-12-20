@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm AMAN PALIWAL! 👋
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
