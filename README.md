@@ -35,7 +35,7 @@ Here are the tools and technologies I frequently work with:
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMANPALIWAL&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=paliwalaman7&show_icons=true&theme=radical)
 
 ---
 
