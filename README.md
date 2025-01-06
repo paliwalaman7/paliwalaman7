@@ -4,12 +4,12 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## About Me
 
-🌟 Passionate about: Web development, artificial intelligence, and creating user-friendly digital experiences.
-🎓 Education: Master's in Computer Science at Bits,Pilani.
-💼 Current Role:Junior Software Engineer
-🌱 Currently Learning: Advanced React patterns, TypeScript, Python Flask,Docker,PostgreSQL,JAVA,C++,Python,Spring-boot etc.
-🤝 Open to Collaboration: Projects involving AI-driven web applications, open-source contributions, or innovative UI/UX designs.
-💡 Fun Fact: I once built a chatbot that writes personalized poetry based on user inputs!
+-🌟 Passionate about: Web development, artificial intelligence, and creating user-friendly digital experiences.
+-🎓 Education: Master's in Computer Science at Bits,Pilani.
+-💼 Current Role:Junior Software Engineer
+-🌱 Currently Learning: Advanced React patterns, TypeScript, Python Flask,Docker,PostgreSQL,JAVA,C++,Python,Spring-boot etc.
+-🤝 Open to Collaboration: Projects involving AI-driven web applications, open-source contributions, or innovative UI/UX designs.
+-💡 Fun Fact: I once built a chatbot that writes personalized poetry based on user inputs!
 
 
 ## My Projects
