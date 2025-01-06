@@ -4,19 +4,20 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## About Me
 
-- 🌟 **Passionate about**: [Your key areas of interest, e.g., web development, AI, data science].
-- 🎓 **Education**: [Your degree or relevant qualifications].
-- 💼 **Current Role**: [Your current role or professional focus].
-- 🌱 **Currently Learning**: [Technologies or skills you're currently working on].
-- 🤝 **Open to Collaboration**: [Types of projects you’re interested in collaborating on].
-- 💡 **Fun Fact**: [Something unique or fun about yourself].
+🌟 Passionate about: Web development, artificial intelligence, and creating user-friendly digital experiences.
+🎓 Education: Master's in Computer Science at Bits,Pilani.
+💼 Current Role:Junior Software Engineer
+🌱 Currently Learning: Advanced React patterns, TypeScript, Python Flask,Docker,PostgreSQL,JAVA,C++,Python,Spring-boot etc.
+🤝 Open to Collaboration: Projects involving AI-driven web applications, open-source contributions, or innovative UI/UX designs.
+💡 Fun Fact: I once built a chatbot that writes personalized poetry based on user inputs!
+
 
 ## My Projects
 
 Here are a few highlights of what I’ve worked on:
 
-- **[Project Name](link-to-project)**: Brief description of the project.
-- **[Project Name](link-to-project)**: Brief description of the project.
+- **[Project Name](link-to-project)**: 
+- **[Project Name](link-to-project)**: 
 
 ## Get in Touch
 
